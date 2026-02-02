@@ -72,4 +72,4 @@ RoBERTa-large 通过掩码语言建模目标与大规模数据与算力投入，
 ## 参考文献与说明
 
 - Liu et al., *RoBERTa: A Robustly Optimized BERT Pretraining Approach*, arXiv:1907.11692.
-- Devlin et al., *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*, arXiv:1810.04805.
+- Devlin et al., *BERT: Pre-training of Bidirectional Transformers for Language Understanding*, arXiv:1810.04805.
